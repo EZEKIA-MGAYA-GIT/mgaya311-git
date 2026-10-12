@@ -1,9 +1,9 @@
 body{
-    background-color: rgba(17, 83, 17, 0.65);
+    background-color: rgba(173, 58, 148, 0.65);
 }
 .nav_bar{
     display: flex;
-    background:linear-gradient(rgb(29, 29, 193),rgba(30, 29,200));
+    background:linear-gradient(rgb(202, 102, 8),rgba(30, 29,200));
     font-size: 35px;
     gap: 70px;
      width: auto;
