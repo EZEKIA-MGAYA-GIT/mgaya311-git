@@ -65,3 +65,28 @@ flex-direction: column;}
 html{
     scroll-behavior: smooth;
 }
+/* Phone screens (up to 600px wide) */
+@media (max-width: 600px) {
+    .nav_links {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+    }
+
+    .main_section1 h1 {
+        font-size: 24px;
+    }
+
+    .main_section1_button {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .main_section1_button button {
+        width: 100%;
+        padding: 12px;
+    }
+
+}
