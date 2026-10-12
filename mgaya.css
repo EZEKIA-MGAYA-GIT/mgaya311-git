@@ -60,7 +60,7 @@ flex-direction: column;}
 .contact{
     display :flex;
     background: rgb(72, 202, 224);
-    gap: 30px;
+    gap: 60%;
 }
 html{
     scroll-behavior: smooth;
